@@ -40,6 +40,7 @@ welcome cs540
 
 
 Concatenate and display content of a file (Option 5):
+
 The script will prompt you to enter the name of the file you want to display.
 For example, if you entered "example.txt" as the file name, the script would execute the command to display the content of the file using 'cat' on Unix-like systems or 'type' on Windows.
 Command executed successfully:
